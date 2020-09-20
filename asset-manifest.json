@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Zelish-Assignment/static/css/main.fc7ce0ff.chunk.css",
-    "main.js": "/Zelish-Assignment/static/js/main.40517e06.chunk.js",
-    "main.js.map": "/Zelish-Assignment/static/js/main.40517e06.chunk.js.map",
-    "runtime-main.js": "/Zelish-Assignment/static/js/runtime-main.e7cddd9e.js",
-    "runtime-main.js.map": "/Zelish-Assignment/static/js/runtime-main.e7cddd9e.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/Zelish-Assignment/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.a3674401.chunk.js": "/Zelish-Assignment/static/js/2.a3674401.chunk.js",
-    "static/js/2.a3674401.chunk.js.map": "/Zelish-Assignment/static/js/2.a3674401.chunk.js.map",
-    "index.html": "/Zelish-Assignment/index.html",
-    "precache-manifest.293c9f200a99a3ecc3b62a75ee99c152.js": "/Zelish-Assignment/precache-manifest.293c9f200a99a3ecc3b62a75ee99c152.js",
-    "service-worker.js": "/Zelish-Assignment/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/Zelish-Assignment/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.fc7ce0ff.chunk.css.map": "/Zelish-Assignment/static/css/main.fc7ce0ff.chunk.css.map",
-    "static/js/2.a3674401.chunk.js.LICENSE.txt": "/Zelish-Assignment/static/js/2.a3674401.chunk.js.LICENSE.txt",
-    "static/media/cloud-back.jpeg": "/Zelish-Assignment/static/media/cloud-back.d59c8501.jpeg",
-    "static/media/mountain.jpg": "/Zelish-Assignment/static/media/mountain.958c9429.jpg",
-    "static/media/night-back.jpg": "/Zelish-Assignment/static/media/night-back.aa0d4d41.jpg",
-    "static/media/rain-back.jpg": "/Zelish-Assignment/static/media/rain-back.27271186.jpg"
+    "main.css": "./static/css/main.fc7ce0ff.chunk.css",
+    "main.js": "./static/js/main.422a5367.chunk.js",
+    "main.js.map": "./static/js/main.422a5367.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.94c40845.js",
+    "runtime-main.js.map": "./static/js/runtime-main.94c40845.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "./static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a3674401.chunk.js": "./static/js/2.a3674401.chunk.js",
+    "static/js/2.a3674401.chunk.js.map": "./static/js/2.a3674401.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8ccb6e8d016f53558c6684614b9b55c0.js": "./precache-manifest.8ccb6e8d016f53558c6684614b9b55c0.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "./static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.fc7ce0ff.chunk.css.map": "./static/css/main.fc7ce0ff.chunk.css.map",
+    "static/js/2.a3674401.chunk.js.LICENSE.txt": "./static/js/2.a3674401.chunk.js.LICENSE.txt",
+    "static/media/cloud-back.jpeg": "./static/media/cloud-back.d59c8501.jpeg",
+    "static/media/mountain.jpg": "./static/media/mountain.958c9429.jpg",
+    "static/media/night-back.jpg": "./static/media/night-back.aa0d4d41.jpg",
+    "static/media/rain-back.jpg": "./static/media/rain-back.27271186.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7cddd9e.js",
+    "static/js/runtime-main.94c40845.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.a3674401.chunk.js",
     "static/css/main.fc7ce0ff.chunk.css",
-    "static/js/main.40517e06.chunk.js"
+    "static/js/main.422a5367.chunk.js"
   ]
 }
