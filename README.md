@@ -29,9 +29,11 @@ $ npm start # or yarn start
 ```
 
 ## Description
-This is a simple react weather app using OpenWeatherMap API.
+This is a Weather app showcasing 5 days Forecast (3 hours interval) using OpenWeatherMap API.
  
 ## Technologies
 Project uses:
 * React
 * Styled Component
+* Bootstrap
+* Material UI
