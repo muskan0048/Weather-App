@@ -19,7 +19,9 @@ Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/e
 $ npm install # or yarn
 ```
 
-Generate an open weather API Key from [`Open Weather Map`](https://nodejs.org/en/)
+Generate an open weather API Key from [`Open Weather Map`](https://openweathermap.org/api)
+
+Replace the API Key in constants.js
 
 Run it
 ```bash
