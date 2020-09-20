@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Zelish-Assignment/precache-manifest.426b613513a9871aea7bc3aeef2c9829.js"
+  "/Zelish-Assignment/precache-manifest.293c9f200a99a3ecc3b62a75ee99c152.js"
 );
 
 self.addEventListener('message', (event) => {

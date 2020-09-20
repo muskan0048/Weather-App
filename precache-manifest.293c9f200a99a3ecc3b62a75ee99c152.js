@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96fe569b066925c9be80ea7b39c21e01",
+    "revision": "b8c4d75d1c725c07da9ff1651551bfac",
     "url": "/Zelish-Assignment/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zelish-Assignment/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "3d276ec075b5230ca2fb",
+    "revision": "9f1d91b4afaa99fe7be5",
     "url": "/Zelish-Assignment/static/css/main.fc7ce0ff.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zelish-Assignment/static/js/2.a3674401.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d276ec075b5230ca2fb",
-    "url": "/Zelish-Assignment/static/js/main.9aaaa185.chunk.js"
+    "revision": "9f1d91b4afaa99fe7be5",
+    "url": "/Zelish-Assignment/static/js/main.40517e06.chunk.js"
   },
   {
     "revision": "f80d1c4495cfe175aeb4",
